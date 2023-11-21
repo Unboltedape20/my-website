@@ -9,3 +9,13 @@ body {
 h1 {
     color: #0066cc;
 }
+
+.data-display {
+    margin-top: 20px;
+}
+
+.user-info {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
